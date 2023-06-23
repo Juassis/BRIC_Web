@@ -40,7 +40,7 @@ The Facility is composed of a multidisciplinary team updated on the latest techn
 
 
 ```{r fig-core, echo = F, eval = T }
-knitr::include_graphics('/Users/flb202/Documents/KU/BRIC/Core/Core.png')
+knitr::include_graphics('/Users/flb202/Documents/GitHub/BRIC_Web/Core/Core3.png')
 ```
 
 * Data analysis is offered to other scientists at the University of Copenhagen and external institutions, although with a priority to BRIC scientists.
@@ -50,32 +50,32 @@ knitr::include_graphics('/Users/flb202/Documents/KU/BRIC/Core/Core.png')
 
 Our support involves **consultation**, **data analysis**, **guidance**, **long-term projects** and **training**.
 
-<span style="color:red"> **A. Consultation**</span>
+## **Consultation**
 
 You are always welcome to talk with us! We can work together to understand your needs.
 
-<span style="color:blue"> **No fee is applied to understand your needs**</span>
+<span style="color:black"> **No fee is applied to understand your needs**</span>
 
-<span style="color:red"> **B. Experimental Desing**</span>
+## **Experimental Desing**
 
 Including a bioinformatician in an early stage of your project can save you time, work, and money and make you apply effort and what matters.
 
-<span style="color:red"> **C. Data Analysis**</span>
+## **Data Analysis**
 
 When you have your data but need help running the pipeline or us to do everything, we can talk to understand your needs.
 
 We're always open to talk.
 
-<span style="color:red"> **D. Standard bioinformatics project**</span>
+## **Standard bioinformatics project**
 
 **A plus in using our services:** We work with optimized pipelines ensuring reproducibility and providing reports.
 
 
-<span style="color:blue"> **Estimating hours is always challenging; we can offer a starter package of 20 to 30hrs for the following analysis**</span>
+<span style="color:black"> **Estimating hours is always challenging; we can offer a starter package of 20 to 30hrs for the following analysis**</span>
 
 1. Gene Expression \
 1.1 RNA-seq \
-1.2 
+1.2 ...
 
 2. Ataq-seq
 
@@ -87,32 +87,35 @@ We're always open to talk.
 >
 >. Reading about the project
 >
->3. Transfer raw sequencing data
+>. Transfer raw sequencing data
 >
->4. Quality assessment of the data 
+>. Quality assessment of the data 
 >
->5. Communication with the user
+>. Communication with the user
 >
->6. Alignment of sequencing reads onto the genome of interest and gene quantification
+>. Alignment of sequencing reads onto the genome of interest and gene quantification
 >
->7. Differential gene expression analysis
+>. Differential gene expression analysis
 >
->8. Functional enrichment
+>. Functional enrichment
 >
-9. Report and Data visualization
+. Report and Data visualization
 >
-10. Meetings to discuss results and possible follow-ups
+. Meetings to discuss results and possible follow-ups
 
-<span style="color:red"> **E. End-To-End**</span>
+## **End-To-End**
 
+We aim to be able to provide an End-to-End analysis for your project.
+Currently, we're taking care of your data and analysis and working in collaboration with other facilities. Please, contact us for more information on how to get the best of us. 
 
-We aim to***
-provide the sequence for your data, we work in collaboration with others facilities. Please, contact-us for more information. 
-
+**End-To-End analysis** \
 **Library Preparation - Sequencing - Bioinformatics**
 
-Data submission (steward), Paper preparation, 
+## More services
 
+- You can also request our services for the data **Data Management**. We can prepare and submit your data to any Data Base.
+
+- Don't hesitate to contact us to help prepare your **paper**! 
 
 ## Prices
 BRIC users: 400 DKK/hour
@@ -152,7 +155,8 @@ knitr::include_graphics('/Users/flb202/Documents/KU/BRIC/Core/eu.jpeg')
 juliana.geraldo@bric.ku.dk \
 
 I'm a Biologist with a Ph.D. in Bioinformatics. My field lies broadly in multi-omics data such as Genomic, Transcriptomic, Metagenomic, Metabolomics, and Data Integration.
-I have extensive experience developing the strategy/experimental design and scientific skills for NGS analysis and long-reads. Making Reproducibility in research is my main focus of study.
+I have extensive experience developing the strategy/experimental design and scientific skills for NGS analysis and long-reads. Making Reproducibility in research is my main focus of study. 
+*My home country is Brazil, and I'm very proud of my cooking skills.*
 
 
 
