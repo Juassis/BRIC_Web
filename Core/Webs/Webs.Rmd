@@ -159,6 +159,15 @@ I have extensive experience developing the strategy/experimental design and scie
 *My home country is Brazil, and I'm very proud of my cooking skills.*
 
 
+**Linbu Liao, Ph.D.**
+
+linbu.liao@bric.ku.dk \
+
+I hold a Ph.D. in Bioinformatics and am a Bioinformatician. As a member of the CellX project, I am tasked with developing Spatial Transcriptomics tools to better comprehend how cells communicate with one another. My relevant work is [SC2Spa, a deep learning-based tool to map transcriptome to spatial origins at cellular resolution](https://sc2spa.readthedocs.io/en/latest/).
+
+*I'm Chinese. In China, I received a bachelor's degree in petroleum engineering as well as a master's degree in software engineering. I made substantial adjustments in both disciplines and locations. Staying on the righteous path is more important to me than being who I am supposed to be.
+
+
 
 ## Talk to us
 
