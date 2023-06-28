@@ -140,12 +140,15 @@ grid.arrange(img1, img2, ncol = 2)
 ```{r fig.width=1, fig.height=1,echo=FALSE}
 library(png)
 library(grid)
-img <- readPNG("/Users/flb202/Documents/KU/BRIC/Core/Leonor.png")
+img <- readPNG("/Users/flb202/Documents/KU/BRIC/Core/Leonor.jpg")
  grid.raster(img)
 ```
 **Leonor Rib, PhD ** \
 leonor.rib@bric.ku.dk \
 
+I'm a Computer Scientist with a passion for biology. I hold a PhD in computational biology after doing a PhD in Integrated experimental and computational biology in Switzerland. I have extensive experience in the experimental design and analysis of multiomics and genetic data for more than 15 years in collaboration with hospitals, academic research groups and biotech companies. More details can be found in my LinkedIn profile: https://www.linkedin.com/in/leonor-rib/
+
+*I'm originally from Spain, in Catalonia. And if you offer me a "Calçotada" in good company and a good wine with "Porró" you will win my heart! * :)
 
 ```{r fig-eu, echo = F, eval = T }
 knitr::include_graphics('/Users/flb202/Documents/KU/BRIC/Core/eu.jpeg')
