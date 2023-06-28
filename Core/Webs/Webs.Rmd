@@ -162,11 +162,11 @@ I have extensive experience developing the strategy/experimental design and scie
 
 **Linbu Liao, Ph.D.**
 
-linbu.liao@bric.ku.dk \
-
-```{r fig-eu, echo = F, eval = T }
-knitr::include_graphics('/Users/flb202/Documents/KU/BRIC/Core/Linbu.png')
+```{r fig-lin, echo = F, eval = T }
+knitr::include_graphics('/Users/flb202/Documents/GitHub/BRIC_Web/Core/Linbu.png')
 ```
+
+linbu.liao@bric.ku.dk \
 
 I hold a Ph.D. in Bioinformatics and am a Bioinformatician. As a member of the CellX project, I am tasked with developing Spatial Transcriptomics tools to better comprehend how cells communicate with one another. My relevant work is [SC2Spa, a deep learning-based tool to map transcriptome to spatial origins at cellular resolution](https://sc2spa.readthedocs.io/en/latest/).
 
