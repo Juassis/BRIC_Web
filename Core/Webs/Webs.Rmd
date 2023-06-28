@@ -48,7 +48,7 @@ knitr::include_graphics('/Users/flb202/Documents/GitHub/BRIC_Web/Core/Core3.png'
 
 # Our Services
 
-Our support involves **consultation**, **data analysis**, **guidance**, **long-term projects** and **training**.
+Our support involves **consultation**, **data analysis**, **guidance**, **short & long-term projects** and **training**.
 
 ## **Consultation**
 
@@ -71,17 +71,17 @@ We're always open to talk.
 **A plus in using our services:** We work with optimized pipelines ensuring reproducibility and providing reports.
 
 
-<span style="color:black"> **Estimating hours is always challenging; we can offer a starter package of 20 to 30hrs for the following analysis**</span>
+<span style="color:black"> **Estimating hours is always challenging; We estimate a workload of 20 to 30 hrs for a standard analysis of simple datasets of the following types:**</span>
 
 1. Gene Expression \
 1.1 RNA-seq \
-1.2 ...
+1.2 ChIP-seq \
 
-2. Ataq-seq
+2. ATAC-seq
 
 3. Single Cell
 
-**An Example of a Standard RNA-seq dataset analyses**
+**An Example of a Standard RNA-seq dataset analysis**
 
 >. Initial meeting / communications
 >
@@ -106,16 +106,16 @@ We're always open to talk.
 ## **End-To-End**
 
 We aim to be able to provide an End-to-End analysis for your project.
-Currently, we're taking care of your data and analysis and working in collaboration with other facilities. Please, contact us for more information on how to get the best of us. 
+At the Bioinformatics core facility we take care of your data and data analyses. And we work in close collaboration with other BRIC core facilities to offer and End-To-End analysis \
+**Library Preparation - Sequencing - Bioinformatics** \
 
-**End-To-End analysis** \
-**Library Preparation - Sequencing - Bioinformatics**
+ Please, contact us for more information on how to get the best of us.
 
 ## More services
 
-- You can also request our services for the data **Data Management**. We can prepare and submit your data to any Data Base.
+- You can also request our services for **Data Management**. We can prepare and submit your data to any public database.
 
-- Don't hesitate to contact us to help prepare your **paper**! 
+- Don't hesitate to contact us to help you preparing your **manuscript**! 
 
 ## Prices
 BRIC users: 400 DKK/hour
