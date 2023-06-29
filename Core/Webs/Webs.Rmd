@@ -38,7 +38,6 @@ The Facility is composed of a multidisciplinary team updated on the latest techn
 3. Training in bioinformatics. 
 
 
-
 ```{r fig-core, echo = F, eval = T }
 knitr::include_graphics('/Users/flb202/Documents/GitHub/BRIC_Web/Core/Core3.png')
 ```
@@ -52,19 +51,20 @@ Our support involves **consultation**, **data analysis**, **guidance**, **short 
 
 ## **Consultation**
 
-You are always welcome to talk with us! We can work together to understand your needs.
+You are always welcome to [talk to us]! We can work together to understand your needs.
+
 
 <span style="color:black"> **No fee is applied to understand your needs**</span>
 
 ## **Experimental Desing**
 
-Including a bioinformatician in an early stage of your project can save you time, work, and money and make you apply effort and what matters.
+Including a bioinformatician in an early stage of your project can save you time, work, and money.
 
 ## **Data Analysis**
 
-When you have your data but need help running the pipeline or us to do everything, we can talk to understand your needs.
 
-We're always open to talk.
+We adapt to your needs. We can discuss and find together the best way to analyze your data and to provide support for your bioinformatic analysis with your own code or with existing pipelines.
+
 
 ## **Standard bioinformatics project**
 
@@ -109,7 +109,7 @@ We aim to be able to provide an End-to-End analysis for your project.
 At the Bioinformatics core facility we take care of your data and data analyses. And we work in close collaboration with other BRIC core facilities to offer and End-To-End analysis \
 **Library Preparation - Sequencing - Bioinformatics** \
 
- Please, contact us for more information on how to get the best of us.
+ Please, [Talk to us] for more information on how to get the best of us.
 
 ## More services
 
@@ -136,22 +136,19 @@ grid.arrange(img1, img2, ncol = 2)
 ```
 
 
-
-```{r fig.width=1, fig.height=1,echo=FALSE}
-library(png)
-library(grid)
-img <- readPNG("/Users/flb202/Documents/KU/BRIC/Core/Leonor.jpg")
- grid.raster(img)
+```{r fig-l, echo = F, eval = T }
+knitr::include_graphics('/Users/flb202/Documents/GitHub/BRIC_Web/Core/Leonor.jpg')
 ```
+
 **Leonor Rib, PhD ** \
 leonor.rib@bric.ku.dk \
 
-I'm a Computer Scientist with a passion for biology. I hold a PhD in computational biology after doing a PhD in Integrated experimental and computational biology in Switzerland. I have extensive experience in the experimental design and analysis of multiomics and genetic data for more than 15 years in collaboration with hospitals, academic research groups and biotech companies. More details can be found in my [LinkedIn profile] (https://www.linkedin.com/in/leonor-rib/)
+I'm a Computer Scientist with a passion for biology. I hold a PhD in computational biology after doing a PhD in Integrated experimental and computational biology in Switzerland. I have extensive experience in the experimental design and analysis of multiomics and genetic data for more than 15 years in collaboration with hospitals, academic research groups and biotech companies. More details can be found in my [LinkedIn profile](https://www.linkedin.com/in/leonor-rib/)
 
 *I'm originally from Spain, in Catalonia. And if you offer me a "Calçotada" in good company and a good wine with "Porró" you will win my heart! * :)
 
 ```{r fig-eu, echo = F, eval = T }
-knitr::include_graphics('/Users/flb202/Documents/KU/BRIC/Core/eu.jpeg')
+knitr::include_graphics('/Users/flb202/Documents/GitHub/BRIC_Web/Core/Ju.png')
 ```
 
 **Juliana Assis, PhD**
@@ -159,8 +156,13 @@ knitr::include_graphics('/Users/flb202/Documents/KU/BRIC/Core/eu.jpeg')
 juliana.geraldo@bric.ku.dk \
 
 I'm a Biologist with a Ph.D. in Bioinformatics. My field lies broadly in multi-omics data such as Genomic, Transcriptomic, Metagenomic, Metabolomics, and Data Integration.
-I have extensive experience developing the strategy/experimental design and scientific skills for NGS analysis and long-reads. Making Reproducibility in research is my main focus of study. 
-*My home country is Brazil, and I'm very proud of my cooking skills.*
+I have extensive experience developing the strategy/experimental design and scientific skills for NGS analysis and long-reads. Making Reproducibility in research is my main focus of study.
+
+You can find more about my work here 
+[Google Scholar](https://scholar.google.com.br/citations?user=MYu19awAAAAJ&hl=en), and, here: [GitHub](https://github.com/Juassis)
+ 
+
+*My home country is Brazil, and I'm very proud of my cooking skills and my Caipirinha!*
 
 
 **Linbu Liao, Ph.D.**
@@ -186,8 +188,6 @@ Office: Biocenter 1-3-20 \
 
 E-mail: bioinf@bric.ku.dk
 
-https://bio.tools/
-
 
 <!-- --------------------- Do not edit this and below ---------------------- -->
 
@@ -198,7 +198,7 @@ https://bio.tools/
 
 ```{r,eval=FALSE,echo=FALSE}
 # manually run this to render this document to HTML
-rmarkdown::render("nbis-report.Rmd")
+rmarkdown::render("website.Rmd")
 # then run this to convert HTML to PDF (if needed)
-#pagedown::chrome_print("nbis-report.html",output="nbis-report.pdf")
+#pagedown::chrome_print("website.html",output="website.pdf")
 ```

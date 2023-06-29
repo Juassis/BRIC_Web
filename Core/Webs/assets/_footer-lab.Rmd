@@ -18,7 +18,7 @@ title: "&nbsp;"
 <p style="color:#bdbdbd;">
 <span>
 <span class="footericon" style="padding-right:4px; padding-left:4px">
-<a href="https://Core_Bio.se/">`r fontawesome::fa("globe-americas",fill="#bdbdbd")`</a>
+<a href="https://bric.ku.dk/core-facilities/bioinformatics/">`r fontawesome::fa("globe-americas",fill="#bdbdbd")`</a>
 </span>
 <span class="footericon" style="padding-right:4px; padding-left:4px">
 <a href="https://twitter.com/Core_Biowe">`r fontawesome::fa("twitter",fill="#bdbdbd")`</a>
