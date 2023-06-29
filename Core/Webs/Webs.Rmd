@@ -27,27 +27,27 @@ output:
 # Bioinformatics
 
 
-The BRIC Bioinformatics Core Facility supports researchers at the BRIC center, the University of Copenhagen (UCPH). 
+The BRIC Bioinformatics Core Facility supports researchers at the BRIC center, the University of Copenhagen (UCPH) and external institutions. 
+
 
 The Facility is composed of a multidisciplinary team updated on the latest technologies in molecular biology . 
 
 
 **Multiple services are offered:** \
-1. Support in analyzing biological data, \
-2. Access to a maintained high-performance computational server and, \
-3. Training in bioinformatics. 
+1. Bioinformatic analysis services (with a priority to BRIC users), \
+2. Access to a maintained high-performance computational server (only to BRIC users) and\
+3. Training in bioinformatics (only to BRIC users).
 
 
 ```{r fig-core, echo = F, eval = T }
 knitr::include_graphics('/Users/flb202/Documents/GitHub/BRIC_Web/Core/Core3.png')
 ```
 
-* Data analysis is offered to other scientists at the University of Copenhagen and external institutions, although with a priority to BRIC scientists.
 
 
 # Our Services
 
-Our support involves **consultation**, **data analysis**, **guidance**, **short & long-term projects** and **training**.
+Our support involves **consultation**, **experimental desing**, **data analysis**, **guidance**, **short & long-term projects** and **training**.
 
 ## **Consultation**
 
@@ -63,7 +63,7 @@ Including a bioinformatician in an early stage of your project can save you time
 ## **Data Analysis**
 
 
-We adapt to your needs. We can discuss and find together the best way to analyze your data and to provide support for your bioinformatic analysis with your own code or with existing pipelines.
+We adapt to your needs. We can discuss and find together the best way to analyze your data. Alternatively, if you want to analyze the data yourself we can also provide support for your bioinformatic analysis with your own code or with existing pipelines.
 
 
 ## **Standard bioinformatics project**
@@ -106,7 +106,7 @@ We adapt to your needs. We can discuss and find together the best way to analyze
 ## **End-To-End**
 
 We aim to be able to provide an End-to-End analysis for your project.
-At the Bioinformatics core facility we take care of your data and data analyses. And we work in close collaboration with other BRIC core facilities to offer and End-To-End analysis \
+At the Bioinformatics core facility we take care of your data and data analyses. And we work in close collaboration with other BRIC core facilities to offer and End-To-End service \
 **Library Preparation - Sequencing - Bioinformatics** \
 
  Please, [Talk to us] for more information on how to get the best of us.
@@ -115,7 +115,7 @@ At the Bioinformatics core facility we take care of your data and data analyses.
 
 - You can also request our services for **Data Management**. We can prepare and submit your data to any public database.
 
-- Don't hesitate to contact us to help you preparing your **manuscript**! 
+- Don't hesitate to contact us to help you preparing your **manuscript** or **grant application**.
 
 ## Prices
 BRIC users: 400 DKK/hour
