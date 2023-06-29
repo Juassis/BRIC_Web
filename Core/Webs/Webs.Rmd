@@ -105,8 +105,7 @@ We adapt to your needs. We can discuss and find together the best way to analyze
 
 ## **End-To-End**
 
-We aim to be able to provide an End-to-End analysis for your project.
-At the Bioinformatics core facility we take care of your data and data analyses. And we work in close collaboration with other BRIC core facilities to offer and End-To-End service \
+We aim to be able to offer an End-to-End service for your project. We work in close collaboration with other BRIC core facilities to offer and End-To-End service \
 **Library Preparation - Sequencing - Bioinformatics** \
 
  Please, [Talk to us] for more information on how to get the best of us.
@@ -117,7 +116,7 @@ At the Bioinformatics core facility we take care of your data and data analyses.
 
 - Don't hesitate to contact us to help you preparing your **manuscript** or **grant application**.
 
-## Prices
+# Prices
 BRIC users: 400 DKK/hour
 
 Other KU users: 500 DKK/hour
@@ -143,9 +142,9 @@ knitr::include_graphics('/Users/flb202/Documents/GitHub/BRIC_Web/Core/Leonor.jpg
 **Leonor Rib, PhD ** \
 leonor.rib@bric.ku.dk \
 
-I'm a Computer Scientist with a passion for biology. I hold a PhD in computational biology after doing a PhD in Integrated experimental and computational biology in Switzerland. I have extensive experience in the experimental design and analysis of multiomics and genetic data for more than 15 years in collaboration with hospitals, academic research groups and biotech companies. More details can be found in my [LinkedIn profile](https://www.linkedin.com/in/leonor-rib/)
+I'm a Computer Scientist with a passion for biology. I hold a PhD in computational biology after doing a PhD in Integrated experimental and computational biology in Switzerland. I have extensive experience in the experimental design and analysis of multiomics and genetic data for more than 15 years in collaboration with hospitals, academic research groups and biotech companies. More details can be found in my [LinkedIn profile](https://www.linkedin.com/in/leonor-rib/) and [Google scholar](https://scholar.google.com/citations?user=iSRLtQcAAAAJ&hl=en).
 
-*I'm originally from Spain, in Catalonia. And if you offer me a "Calçotada" in good company and a good wine with "Porró" you will win my heart! * :)
+*I'm originally from Spain, in Catalonia. And if you offer me a ["Calçotada"](https://theculturetrip.com/europe/spain/articles/calcotada-a-guide-to-the-catalan-onion-craze/) in good company and a good wine with ["Porró"](https://www.businessinsider.com/how-people-drink-wine-in-barcelona-2016-5?r=US&IR=T) you will make me happy * :)
 
 ```{r fig-eu, echo = F, eval = T }
 knitr::include_graphics('/Users/flb202/Documents/GitHub/BRIC_Web/Core/Ju.png')
