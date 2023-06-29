@@ -34,9 +34,10 @@ The Facility is composed of a multidisciplinary team updated on the latest techn
 
 
 **Multiple services are offered:** \
-1. Bioinformatic analysis services (with a priority to BRIC users), \
-2. Access to a maintained high-performance computational server (only to BRIC users) and\
-3. Training in bioinformatics (only to BRIC users).
+1. Bioinformatic analysis services (with a priority to BRIC users) \
+2. Access to a maintained high-performance computational server (only for BRIC users)\
+3. Training in bioinformatics (only for BRIC users)\
+4. And more.
 
 
 ```{r fig-core, echo = F, eval = T }
@@ -47,7 +48,7 @@ knitr::include_graphics('/Users/flb202/Documents/GitHub/BRIC_Web/Core/Core3.png'
 
 # Our Services
 
-Our support involves **consultation**, **experimental desing**, **data analysis**, **guidance**, **short & long-term projects** and **training**.
+Our support mainly involves **consultation**, **experimental desing**, **data analysis**, *management*, **guidance**, **short & long-term projects** and **training**. Although you are welcome to contact us for other bioinformatic needs.
 
 ## **Consultation**
 
@@ -63,23 +64,18 @@ Including a bioinformatician in an early stage of your project can save you time
 ## **Data Analysis**
 
 
-We adapt to your needs. We can discuss and find together the best way to analyze your data. Alternatively, if you want to analyze the data yourself we can also provide support for your bioinformatic analysis with your own code or with existing pipelines.
+We adapt to your needs. We can discuss and find together the best way to analyze your data. Also, if you want to analyze the data yourself we can provide support for your bioinformatic analysis with your own code or with existing pipelines.
 
 
-## **Standard bioinformatics project**
-
-**A plus in using our services:** We work with optimized pipelines ensuring reproducibility and providing reports.
-
+## **Standard bioinformatics projects**
+A standard bioinformatic project would be a project with typically around 6 samples, 3 samples of each condition, where the user aims to perform a differential expression analysis between the two conditions and a functional enrichment analysis. The data types included in such category are:
+1 RNA-seq \
+1 ChIP-seq \
+2. ATAC-seq \
+3. Single Cell data \
 
 <span style="color:black"> **Estimating hours is always challenging; We estimate a workload of 20 to 30 hrs for a standard analysis of simple datasets of the following types:**</span>
 
-1. Gene Expression \
-1.1 RNA-seq \
-1.2 ChIP-seq \
-
-2. ATAC-seq
-
-3. Single Cell
 
 **An Example of a Standard RNA-seq dataset analysis**
 
@@ -102,6 +98,9 @@ We adapt to your needs. We can discuss and find together the best way to analyze
 . Report and Data visualization
 >
 . Meetings to discuss results and possible follow-ups
+
+**A plus in using our services:** We work with optimized pipelines ensuring reproducibility and providing reports. \
+
 
 ## **End-To-End**
 
