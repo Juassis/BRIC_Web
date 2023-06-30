@@ -48,7 +48,7 @@ knitr::include_graphics('/Users/flb202/Documents/GitHub/BRIC_Web/Core/Core3.png'
 
 # Our Services
 
-Our support mainly involves **consultation**, **experimental desing**, **data analysis**, *management*, **guidance**, **short & long-term projects** and **training**. Although you are welcome to contact us for other bioinformatic needs.
+Our support mainly involves **consultation**, **experimental desing**, **data analysis**, **data management**, **guidance**, **short & long-term projects** and **training**. Although you are welcome to contact us for other bioinformatic needs.
 
 ## **Consultation**
 
@@ -74,7 +74,7 @@ A standard bioinformatic project would be a project with typically around 6 samp
 2. ATAC-seq \
 3. Single Cell data \
 
-<span style="color:black"> **Estimating hours is always challenging; We estimate a workload of 20 to 30 hrs for a standard analysis of simple datasets of the following types:**</span>
+<span style="color:black"> **Estimating hours is always challenging; We estimate a workload of 20 to 30 hrs for a standard analysis of simple datasets.**</span>
 
 
 **An Example of a Standard RNA-seq dataset analysis**
@@ -109,7 +109,7 @@ We aim to be able to offer an End-to-End service for your project. We work in cl
 
  Please, [Talk to us] for more information on how to get the best of us.
 
-## More services
+## **More services**
 
 - You can also request our services for **Data Management**. We can prepare and submit your data to any public database.
 
